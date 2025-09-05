@@ -7,11 +7,11 @@ while i <= 10:
         print(i)
      
     i = i + 1
-
+i1 = 1
 # continue : skip
-while i <= 10:
-    if i%2 == 1:
-        i += 1
+while i1 <= 10:
+    if i1%2 == 1:
+        i1 += 1
         continue
-    print(i)
-    i = i + 1
+    print(i1)
+    i1 = i1 + 1
